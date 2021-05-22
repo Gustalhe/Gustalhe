@@ -1,8 +1,8 @@
 ## Muito prazer, sou o Gustavo Lopes! 👋 
 <div> 
 <a href = "https://github.com/Gustalhe">
-<img align="right" height="180em" src = "https://github-readme-stats.vercel.app/api?username=Gustalhe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
- <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gustalhe&layout=compact&langs_count=16&theme=dracula"/>
+<img height="180em" src = "https://github-readme-stats.vercel.app/api?username=Gustalhe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+<img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gustalhe&layout=compact&langs_count=16&theme=dracula"/>
 
 <div>
 
@@ -19,25 +19,20 @@
   <img align="center" alt="Gus-Mysql" height="80" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div> 
   
-
-<div align="right">
-  <h2>Mídias sociais:</h2>
-  
-<a href = "mailto: Gustavo.moreiralopes@hotmail.com">
-<img src="https://img.shields.io/badge/-Hotmail-%2300FFFF?style=for-the-badge&logo=microsoft&logoColor=black" target="_blank">
-</a>
-  
-<a href="https://www.instagram.com/gustalhe/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-  
-<a href="https://www.linkedin.com/in/gustavo-lopes-625982195" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100004001006855" target="_blank">
-<img src="https://img.shields.io/badge/-Facebook-%230000FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-</a>
+ <div align="right">
+ <h2>Mídias sociais:</h2>
+ <a href = "mailto: Gustavo.moreiralopes@hotmail.com">
+ <img src="https://img.shields.io/badge/-Hotmail-%2300FFFF?style=for-the-badge&logo=microsoft&logoColor=black" target="_blank">
+ </a>
+ <a href="https://www.instagram.com/gustalhe/" target="_blank">
+ <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+ </a>
+ <a href="https://www.linkedin.com/in/gustavo-lopes-625982195" target="_blank">
+ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a>
+ <a href="https://www.facebook.com/profile.php?id=100004001006855" target="_blank">
+ <img src="https://img.shields.io/badge/-Facebook-%230000FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+ </a>
    
 </div>
 
