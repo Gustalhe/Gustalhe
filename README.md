@@ -1,4 +1,5 @@
-## Muito prazer, sou o Gustavo Lopes! 👋 
+## Hello, i am Gustavo Lopes!! 👋 
+
 <div> 
 <a href = "https://github.com/Gustalhe">
 <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=Gustalhe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
